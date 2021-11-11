@@ -5,6 +5,10 @@ ext {
             targetSdk    : 31,
             versionCode  : 1,
             versionName  : "1.0",
-            compileSdk   : 31
+            compileSdk   : 31,
+    ]
+
+    dependencies = [
+            utilcodex: 'com.blankj:utilcodex:1.30.6', //androidx
     ]
 }
