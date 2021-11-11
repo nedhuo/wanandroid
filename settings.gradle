@@ -1,0 +1,12 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "wanandroid"
+include ':app'
+include ':lib_common'
+include ':lib_base'
+include ':lib_network'
