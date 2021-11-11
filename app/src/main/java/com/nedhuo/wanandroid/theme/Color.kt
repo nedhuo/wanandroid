@@ -1,4 +1,4 @@
-package com.nedhuo.myapplication.ui.theme
+package com.nedhuo.wanandroid.theme
 
 import androidx.compose.ui.graphics.Color
 
